@@ -1,0 +1,13 @@
+You have to scrap data from these website
+
+1)https://dhcappl.nic.in/FreeText/launchbrowsejud.do#
+  scrap data from year 2023-2020
+
+2)https://dhcappl.nic.in/FreeText/launchbrowsejud.do#
+  scrap data from year 2019-2016
+
+3)https://dhcappl.nic.in/FreeText/launchbrowsejud.do#
+ scrap data from year 2015-2012
+
+4)https://dhcappl.nic.in/FreeText/launchbrowsejud.do
+  scrap data from year 2011-2007
