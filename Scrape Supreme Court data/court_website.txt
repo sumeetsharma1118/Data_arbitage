@@ -1,0 +1,5 @@
+https://njdg.ecourts.gov.in/scnjdg/
+scrap data of Civil cases Instituted in current year
+
+https://main.sci.gov.in/case-status
+from here scrap the status and other details of the cases extracted from above data
